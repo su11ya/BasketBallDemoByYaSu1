@@ -79,5 +79,6 @@ class BasketBallDemoByYaSu : AppCompatActivity() {
     private fun displayForTeamB(score: Int){
         binding.teamBScore.text = score.toString()
     }
+    //just test for github
 
 }
